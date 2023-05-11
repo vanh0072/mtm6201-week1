@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(165, 185, 165, 0.50);
+}
