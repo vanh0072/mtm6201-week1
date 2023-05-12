@@ -23,7 +23,7 @@ body {
 img {
     float: left;
     width: 150px;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 main dl {
@@ -36,6 +36,7 @@ main dl {
     color: white;
     line-height: 1.5;
     padding: 20px;
+    margin-top: 20px;
 }
 
 dl dt {
