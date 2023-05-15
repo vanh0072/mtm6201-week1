@@ -9,15 +9,15 @@
 
 h1 {
     background-color: rgba(171, 198, 171, 0.75);
-    color: white;
+    color: black;
     padding: 10px;
     font-weight: bold;
 }
 
 body {
-    background-color: rgb(125, 144, 125);
+    background-color: rgb(237, 239, 231);
     font-size: 1em;
-    color: white;
+    color: black;
 }
 
 img {
@@ -33,7 +33,7 @@ main dl {
     flex-direction: column;
     justify-content: center;
     width: 100%;
-    color: white;
+    color: black;
     line-height: 1.5;
     padding: 20px;
     margin-top: 20px;
